@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding:0;
+        
+}
+body{
+    margin: 12px;
+    padding: 12px;
+    background-color: #ecf0f1;
+    font-family: Arial;
+    font-size: 18px;
+     
+}
+li{
+    background-color: #9b59b6;
+    color: #ffffff;
+    margin-bottom:  12px;
+    padding: 12px;
+    font-size: 18px;
+    font-family: Arial;
+    list-style-type: none;
+    
+      
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+h2{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 12px;
+        
+}
